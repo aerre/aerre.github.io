@@ -1,0 +1,74 @@
+.rotate {
+
+	/* Safari */
+	-webkit-transform: rotate(-90deg);
+	-webkit-transform: bottom left;
+	/* Firefox */
+	-moz-transform: rotate(-90deg);
+	-moz-transform-origin: bottom left;
+
+	/* IE */
+	-ms-transform: rotate(-90deg);
+	-ms-transform: bottom left 0;
+
+	/* Opera */
+	-o-transform: rotate(-90deg);
+	-o-transform-origin: bottom left;
+
+	/* Internet Explorer */
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+
+	transform: rotate(-90deg);
+	transform-origin: bottom left;
+
+
+	display: inline-block;
+	white-space: nowrap;
+
+}
+
+
+#imagehome{
+text-align: center;
+}
+
+#imagehome img{
+	max-width: 340px;
+}
+
+#texthome{
+
+	margin-top: 525px;
+	margin-left: 30px;
+	letter-spacing: 14px;
+}
+
+#texthome2{
+
+	margin-top: -365px;
+	margin-left: 70px;
+
+}
+
+#texthome2 p{
+		font-size: 9px;
+}
+
+
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 10px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.videoworks{
+	padding:5px;
+}

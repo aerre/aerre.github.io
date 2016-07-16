@@ -1,0 +1,31 @@
+<footer class="site-footer">
+
+<div class="wrapper">
+  
+  <h2 class="footer-heading" itemprop="name">Antonio Delle Rose</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <div itemscope itemtype="http://schema.org/Person">
+          <meta itemprop="name" content="Antonio Delle Rose">
+          <meta itemprop="jobTitle" content="Pittore" >
+          <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+            <meta itemprop="addressLocality" content="Pesaro">
+              <meta itemprop="addressRegion" content="PU" >
+              <meta itemprop="postalCode" content="61122" >
+          </div>
+          <ul class="contact-list">
+            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li><a href="https://www.facebook.com/delleroseantonio/" itemprop="url">facebook</li>
+          </ul>
+        </div>
+      </div>
+
+</footer>
+
+<script src="{{ "/js/vendor/jquery.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/foundation.min.js" | prepend: site.baseurl }}"></script>
+
+<script>
+      $(document).foundation();
+</script>
