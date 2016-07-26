@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: biografia
+permalink: /biografia/
 ---
 
 <div class="small-12 columns">
@@ -143,7 +143,7 @@ permalink: /about/
 				                              a cura di Roberta Ridolfi <br>
 
 				<strong>2008</strong> <br>
-				Jesi                         Muse Diocesano <br>
+				Jesi                         Museo Diocesano <br>
 
 				<strong>2009</strong> <br>
 				Sassoferrato         Premio G. B. Salvi <br>
@@ -182,6 +182,11 @@ permalink: /about/
 				Alessano,               Fondazione Don Tonino Bello <br>
 				Falconara,              Museo Internazionale Francescano <br>
 				Cupra Montana    Museo Internazionale Dell’Etichetta  <br>
+
+				<strong>2016</strong> <br>
+				Abbiategrasso,                 Palazzo Cittadini Stampa <br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            Ricordo di P.P. Pasolini <br>
+				Senigallia,           Musinf - Museo d'arte moderna, dell'informazione e della fotografia
 	                                
 
 	                                

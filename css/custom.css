@@ -27,6 +27,14 @@
 
 }
 
+#contentcentered{
+	text-align: center;
+	margin-left: -15px;
+}
+
+#contentcentered a{
+	text-decoration: underline;
+}
 
 #imagehome{
 text-align: center;
