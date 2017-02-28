@@ -63,7 +63,7 @@ permalink: /opere/
   
   <li><a href="{{ site.baseurl }}/img/Tra-il-ricamo-della-siepe-2011-olio-100x100.jpg"><img data-caption="Tra il ricamo della siepe 2011 olio 100x100.jpg" src="{{ site.baseurl }}/img/Tra-il-ricamo-della-siepe-2011-olio-100x100.jpg"></a></li>
   
-
+   <li><a href="{{ site.baseurl }}/img/grafite-su-carta_4.jpg"><img data-caption="olio su tavola" src="{{ site.baseurl }}/img/oliosutavola 89x91.jpg"></a></li>
 
   <li><a href="{{ site.baseurl }}/img/Pasolini_DelleRose.jpg"><img data-caption="Pasolini Delle Rose" src="{{ site.baseurl }}/img/Pasolini_DelleRose.jpg"></a></li> 
   <li><a href="{{ site.baseurl }}/img/matita-su-carta-200x150.jpg"><img data-caption="matita su carta 200x150" src="{{ site.baseurl }}/img/matita-su-carta-200x150.jpg"></a></li>
@@ -73,6 +73,7 @@ permalink: /opere/
   <li><a href="{{ site.baseurl }}/img/grafite-su-carta_2.jpg"><img data-caption="Grafite su carta" src="{{ site.baseurl }}/img/grafite-su-carta_2.jpg"></a></li>
   <li><a href="{{ site.baseurl }}/img/grafite-su-carta_3.jpg"><img data-caption="Grafite su carta" src="{{ site.baseurl }}/img/grafite-su-carta_3.jpg"></a></li>
   <li><a href="{{ site.baseurl }}/img/grafite-su-carta_4.jpg"><img data-caption="Grafite su carta" src="{{ site.baseurl }}/img/grafite-su-carta_4.jpg"></a></li>
+
 </ul>
 </div>
 
