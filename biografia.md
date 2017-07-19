@@ -186,8 +186,20 @@ permalink: /biografia/
 				<strong>2016</strong> <br>
 				Abbiategrasso,                 Palazzo Cittadini Stampa <br>
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            Ricordo di P.P. Pasolini <br>
-				Senigallia,           Musinf - Museo d'arte moderna, dell'informazione e della fotografia
-	                                
+				Senigallia,           Musinf - Museo d'arte moderna, dell'informazione e della fotografia <br>
+	                      
+
+	        Abbiategrasso      Palazzo Cittadini Stampa Ricordo di P.P.Pasolini <br>
+			Rozzano               Centro Culturale P.P. Pasolini <br>
+			Roma                   MACRO A cura di C. E. Bugatti e E. Longari <br>
+			Roma                   Galleria Studio S “La bestia e la bella” <br> 
+			Padova                 27° Arte Padova Galleria Viola<br>
+			
+			<strong>2017</strong> <br>
+			
+			Senigallia             MUSINF Museo Rocca Roveresca<br>
+			Locate                  Palazzo Trivulzio 
+			                                    
 
 	                                
 

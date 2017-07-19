@@ -25,6 +25,13 @@ permalink: /opere/
 -->
 
 <ul class="clearing-thumbs large-block-grid-6 medium-block-grid-4 small-block-grid-1" data-clearing>
+  <li><a href="{{ site.baseurl }}/img/olio-su-tavola-21x78.jpg"><img data-caption="olio su tavola 21x78" src="{{ site.baseurl }}/img/olio-su-tavola-21x78.jpg"></a></li>  
+  <li><a href="{{ site.baseurl }}/img/olio-su-tavola-37x63.jpg"><img data-caption="olio su tavola 37x63" src="{{ site.baseurl }}/img/olio-su-tavola-37x63.jpg"></a></li>  
+  <li><a href="{{ site.baseurl }}/img/olio-su-tavola-50x70.jpg"><img data-caption="olio su tavola 50x70" src="{{ site.baseurl }}/img/olio-su-tavola-50x70.jpg"></a></li>  
+  <li><a href="{{ site.baseurl }}/img/olio-tela-tavola-100x148.jpg"><img data-caption="olio tela tavola 100x148" src="{{ site.baseurl }}/img/olio-tela-tavola-100x148.jpg"></a></li> 
+  <li><a href="{{ site.baseurl }}/img/olio-su-tela_tavola-100x150.jpg"><img data-caption="olio su tela/tavola 100x150" src="{{ site.baseurl }}/img/olio-su-tela_tavola-100x150.jpg"></a></li>  
+  <li><a href="{{ site.baseurl }}/img/olio-su-tavola-50x75.jpg"><img data-caption="olio su tavola 50x75" src="{{ site.baseurl }}/img/olio-su-tavola-50x75.jpg"></a></li>  
+
   <li><a href="{{ site.baseurl }}/img/Frammenti nella notte 2013 olio-acrilico 100x140.jpg"><img data-caption="Frammenti nella notte 2013 olio-acrilico" src="{{ site.baseurl }}/img/Frammenti nella notte 2013 olio-acrilico 100x140.jpg"></a></li>
   <li><a href="{{ site.baseurl }}/img/100x100 olio 2006.jpg"><img data-caption="100x100 2006 olio" src="{{ site.baseurl }}/img/100x100 olio 2006.jpg"></a></li>
   <li><a href="{{ site.baseurl }}/img/graf.-acril.-su-carta-90x60-2006.jpg"><img data-caption="grafite acrilico su carta 90x60 2006" src="{{ site.baseurl }}/img/graf.-acril.-su-carta-90x60-2006.jpg"></a></li>
