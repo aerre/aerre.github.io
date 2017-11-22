@@ -25,6 +25,31 @@ permalink: /opere/
 -->
 
 <ul class="clearing-thumbs large-block-grid-6 medium-block-grid-4 small-block-grid-1" data-clearing>
+  
+ <li><a href="{{ site.baseurl }}/img/olio-su-cartone-22x56-2017.jpg"><img data-caption="olio-su-cartone-22x56-2017" src="{{ site.baseurl }}/img/olio-su-cartone-22x56-2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/olio-su-cartone-38x48-2017.jpg"><img data-caption="olio-su-cartone-38x48-2017" src="{{ site.baseurl }}/img/olio-su-cartone-38x48-2017.jpg"></a></li> 
+ <li><a href="{{ site.baseurl }}/img/olio-su-tavoa-54x55-2017.jpg"><img data-caption="olio-su-tavoa-54x55-2017" src="{{ site.baseurl }}/img/olio-su-tavoa-54x55-2017.jpg"></a></li>
+<li><a href="{{ site.baseurl }}/img/olio-su-tavola-15x23-2017.jpg"><img data-caption="olio-su-tavola-15x23-2017" src="{{ site.baseurl }}/img/olio-su-tavola-15x23-2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/olio-su-tavola-20x72-2017.jpg"><img data-caption="olio-su-tavola-20x72-2017" src="{{ site.baseurl }}/img/olio-su-tavola-20x72-2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/olio-su-tavola-28x53-2017.jpg"><img data-caption="olio-su-tavola-28x53-2017" src="{{ site.baseurl }}/img/olio-su-tavola-28x53-2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/olio-su-tavola-35x50-2017.jpg"><img data-caption="olio-su-tavola-35x50-2017" src="{{ site.baseurl }}/img/olio-su-tavola-35x50-2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/olio-su-tavola-36x45-2017.jpg"><img data-caption="olio-su-tavola-36x45-2017" src="{{ site.baseurl }}/img/olio-su-tavola-36x45-2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/olio-su-tavola-37x45-2017.jpg"><img data-caption="olio-su-tavola-37x45-2017" src="{{ site.baseurl }}/img/olio-su-tavola-37x45-2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/olio-su-tavola-38x45-2017.jpg"><img data-caption="olio-su-tavola-38x45-2017" src="{{ site.baseurl }}/img/olio-su-tavola-38x45-2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/olio-su-tavola-47x53-2017.jpg"><img data-caption="olio-su-tavola-47x53-2017" src="{{ site.baseurl }}/img/olio-su-tavola-47x53-2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/olio-su-tavola-54x55-2017.jpg"><img data-caption="olio-su-tavola-54x55-2017" src="{{ site.baseurl }}/img/olio-su-tavola-54x55-2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/olio-su-tavola-55x27-2017.jpg"><img data-caption="olio-su-tavola-55x27-2017" src="{{ site.baseurl }}/img/olio-su-tavola-55x27-2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/olio-su-tela-100x160-2017.jpg"><img data-caption="olio-su-tela-100x160-2017" src="{{ site.baseurl }}/img/olio-su-tela-100x160-2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/olio-su-tela-120x120-2003.jpg"><img data-caption="olio-su-tela-120x120-2003" src="{{ site.baseurl }}/img/olio-su-tela-120x120-2003.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/olio-su-tela-tavola-100x145-2017.jpg"><img data-caption="olio-su-tela-tavola-100x145-2017" src="{{ site.baseurl }}/img/olio-su-tela-tavola-100x145-2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/olio-su-tela-tavola-100x148-2017.jpg"><img data-caption="olio-su-tela-tavola-100x148-2017" src="{{ site.baseurl }}/img/olio-su-tela-tavola-100x148-2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/olio-su-tela-tavola-160x130-2017.jpg"><img data-caption="olio-su-tela-tavola-160x130-2017" src="{{ site.baseurl }}/img/olio-su-tela-tavola-160x130-2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/matita-su-carta-30x42-2017.jpg"><img data-caption="matita-su-carta-30x42-2017" src="{{ site.baseurl }}/img/matita-su-carta-30x42-2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/matita-su-carta-30x42--2017.jpg"><img data-caption="matita-su-carta-30x42 2017" src="{{ site.baseurl }}/img/matita-su-carta-30x42--2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/matita-su-carta-30x42---2017.jpg"><img data-caption="matita-su-carta-30x42 2017" src="{{ site.baseurl }}/img/matita-su-carta-30x42---2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/matita-su-carta-30x42----2017.jpg"><img data-caption="matita-su-carta-30x42 2017" src="{{ site.baseurl }}/img/matita-su-carta-30x42----2017.jpg"></a></li>
+ <li><a href="{{ site.baseurl }}/img/matita-e-matite-colorate-su-carta-31,5x44,5-2017.jpg"><img data-caption="matita-e-matite-colorate-su-carta-31,5x44,5-2017" src="{{ site.baseurl }}/img/matita-e-matite-colorate-su-carta-31,5x44,5-2017.jpg"></a></li>
+ 
   <li><a href="{{ site.baseurl }}/img/olio-su-tavola-21x78.jpg"><img data-caption="olio su tavola 21x78" src="{{ site.baseurl }}/img/olio-su-tavola-21x78.jpg"></a></li>  
   <li><a href="{{ site.baseurl }}/img/olio-su-tavola-37x63.jpg"><img data-caption="olio su tavola 37x63" src="{{ site.baseurl }}/img/olio-su-tavola-37x63.jpg"></a></li>  
   <li><a href="{{ site.baseurl }}/img/olio-su-tavola-50x70.jpg"><img data-caption="olio su tavola 50x70" src="{{ site.baseurl }}/img/olio-su-tavola-50x70.jpg"></a></li>  
