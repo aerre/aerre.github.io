@@ -97,7 +97,7 @@ permalink: /opere/
   
    <li><a href="{{ site.baseurl }}/img/oliosutavola-89x91.jpg"><img data-caption="olio su tavola 89x91" src="{{ site.baseurl }}/img/oliosutavola-89x91.jpg"></a></li>
 
-  <li><a href="{{ site.baseurl }}/img/Pasolini_DelleRose.jpg"><img data-caption="Pasolini Delle Rose" src="{{ site.baseurl }}/img/Pasolini_DelleRose.jpg"></a></li> 
+  <li><a href="{{ site.baseurl }}/img/Pasolini_DelleRose.png"><img data-caption="Pasolini Delle Rose" src="{{ site.baseurl }}/img/Pasolini_DelleRose.jpg"></a></li> 
   <li><a href="{{ site.baseurl }}/img/matita-su-carta-200x150.jpg"><img data-caption="matita su carta 200x150" src="{{ site.baseurl }}/img/matita-su-carta-200x150.jpg"></a></li>
   
   <li><a href="{{ site.baseurl }}/img/grafite-su-carta-50x136-2006.jpg"><img data-caption="grafite su carta 50x136 2006" src="{{ site.baseurl }}/img/grafite-su-carta-50x136-2006.jpg"></a></li>
