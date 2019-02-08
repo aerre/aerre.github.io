@@ -173,16 +173,6 @@ permalink: /biografia/
 				Ancona                  Mole Vanvitelliana <br>
 				                                Arteinsieme    <br>
 
-
-				                                Opere in collezioni pubbliche <br>
-				       
-				Beato Sante,          Museo Arte Sacra <br>
-				Tripoli,                   Museo di Grafica Italiana
-				Jesi,                         Museo Diocesano <br>
-				Alessano,               Fondazione Don Tonino Bello <br>
-				Falconara,              Museo Internazionale Francescano <br>
-				Cupra Montana    Museo Internazionale Dell’Etichetta  <br>
-
 				<strong>2016</strong> <br>
 				Abbiategrasso,                 Palazzo Cittadini Stampa <br>
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            Ricordo di P.P. Pasolini <br>
@@ -204,7 +194,7 @@ permalink: /biografia/
 			Trecastelli,               Museo Nori  <br>        
 			Cattolica,                 Galleria Santa Croce <br>
 			Milano,                    Ricordo di Pier Paolo Pasolini<br>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       Fabbrica del Vapore
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       Fabbrica del Vapore<br>
 
 
 
