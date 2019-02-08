@@ -198,7 +198,27 @@ permalink: /biografia/
 			<strong>2017</strong> <br>
 			
 			Senigallia             MUSINF Museo Rocca Roveresca<br>
-			Locate                  Palazzo Trivulzio 
+			Locate                  Palazzo Trivulzio <br> 
+			<strong>2018  </strong> <br>                        
+			Sassuolo,                 Galleria Annovi<br>
+			Trecastelli,               Museo Nori  <br>        
+			Cattolica,                 Galleria Santa Croce <br>
+			Milano,                    Ricordo di Pier Paolo Pasolini<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       Fabbrica del Vapore
+
+
+
+			<strong>Opere in collezioni pubbliche</strong> <br>
+
+			Beato Sante,          Museo Arte Sacra<br>
+			Tripoli,                   Museo di Grafica Italiana<br>
+			Jesi,                         Museo Diocesano<br>
+			Alessano,               Fondazione Don Tonino Bello<br>
+			Falconara,              Museo Internazionale Francescano<br>
+			Cupra Montana,   Museo Internazionale Dell’Etichetta <br> 
+			Sassoferrato,          Museo d’Arte G.B. Salvi<br>
+			Trecastelli,              Museo Nori De’ Nobili
+
 			                                    
 
 	                                
@@ -321,6 +341,13 @@ permalink: /biografia/
 				Catalogo G. B. Salvi              2012  <br>
 				Andrea Carnevali <br>
 				Contemporart N° 82               2015     <br>
+				Rivista “Storia e Storia”, 2015
+				Carlo Emanuele Bugatti<br>
+				Toni Toniato<br>
+				Carlo Franza<br>
+				Gabriele Tinti<br>
+				Catalogo  “Ricomposto Zodiaco”, Musinf Museo, 2017<br>
+
 
 			    </div>
 			   </li>
