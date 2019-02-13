@@ -207,7 +207,8 @@ permalink: /biografia/
 			Falconara,              Museo Internazionale Francescano<br>
 			Cupra Montana,   Museo Internazionale Dell’Etichetta <br> 
 			Sassoferrato,          Museo d’Arte G.B. Salvi<br>
-			Trecastelli,              Museo Nori De’ Nobili
+			Trecastelli,              Museo Nori De’ Nobili<br>
+			Senigallia,              Museo MUSINF
 
 			                                    
 
