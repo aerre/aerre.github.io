@@ -83,6 +83,9 @@ permalink: /biografia/
 				Montichiari,	         Expo Arte, Gall. Astuti			 <br>
 				Udine,	                     Fiera di Udine, Gall. Astuti		 <br>	
 				Ancona                   Premio Marche,			 <br>
+				<strong>1966</strong><br>
+				Pesaro, Estemporanea del Porto<br>
+				Colonia, Galerie Am Marht<br>
 
 				<strong>1997</strong> <br>
 				Dusseldorf,	          Fiera della grafica, Gall. L’Ariete	 <br>	
@@ -208,7 +211,7 @@ permalink: /biografia/
 			Cupra Montana,   Museo Internazionale Dell’Etichetta <br> 
 			Sassoferrato,          Museo d’Arte G.B. Salvi<br>
 			Trecastelli,              Museo Nori De’ Nobili<br>
-			Senigallia,              Museo MUSINF
+			Senigallia,              Chiesa di San giuseppe, Museo MUSINF
 
 			                                    
 
