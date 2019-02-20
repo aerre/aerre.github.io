@@ -32,8 +32,9 @@ permalink: /biografia/
 			Ha presentato nel 1986, al teatro Sperimentale di Pesaro, un proprio lavoro teatrale dal titolo: “Il Cerchio di Bronzo”.
 			Ha pubblicato nel 1979 “Tripthucos”; nel 1981 “Arte e Scienza”; nel 1989 un saggio sul pittore marchigiano Osvaldo Licini; nel 1994 ha pubblicato “Intinti”, raccolta di poesie; nel 2014 “Arte a Parole”.
 			</p>
-		      
-		      <strong>1969</strong> <br>
+			        <strong>1966</strong><br>
+				Pesaro, Estemporanea del Porto<br>
+		                <strong>1969</strong> <br>
 				Pesaro,	Saletta Rossini			 <br>
 				<strong>1970</strong> <br>
 				Pistoia,	Premio Nazionale”Ugo Pasquini”,	 <br>		
@@ -83,8 +84,7 @@ permalink: /biografia/
 				Montichiari,	         Expo Arte, Gall. Astuti			 <br>
 				Udine,	                     Fiera di Udine, Gall. Astuti		 <br>	
 				Ancona                   Premio Marche,			 <br>
-				<strong>1966</strong><br>
-				Pesaro, Estemporanea del Porto<br>
+				<strong>1996</strong><br>
 				Colonia, Galerie Am Marht<br>
 
 				<strong>1997</strong> <br>
